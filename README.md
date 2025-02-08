@@ -1,1 +1,1 @@
-# off_the_shelf_llm
+# Basic off the shelf llm RAG solution 👌
