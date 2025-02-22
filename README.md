@@ -1,4 +1,4 @@
-# Basic off the shelf llm RAG solution 👌
+# Basic off the shelf LLM RAG solution 👌
 1. Install [rye](https://rye.astral.sh/), which is a very easy and simple package manager.
 2. Install [Ollama](https://ollama.com/download).
 2. Clone this repository, and run `rye sync` from the root of the project. (This installs all the packages needed to run the notebook)
